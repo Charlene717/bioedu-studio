@@ -1,0 +1,7 @@
+{
+  "name": "bioedu-studio",
+  "version": "1.0.0",
+  "description": "生物資訊教學製作團隊：課程設計、內容查核、程式教材、實作評量、簡報、影片講稿、互動網站、推廣、品質審查九位專職 agent，加上總監工作流程。",
+  "author": { "name": "Chia-Jung Chang (Charlene)" },
+  "keywords": ["bioinformatics", "education", "scRNA-seq", "bilingual", "teaching"]
+}
